@@ -1,0 +1,34 @@
+.error{
+    color: red;
+    margin-top: 30px;
+    text-align: center;
+}
+.backButton{
+    cursor: pointer;
+    width: fit-content;
+    font-size: 1.4rem;
+}
+.title{
+    font-size: 1.1rem;
+    width: fit-content;    
+    font-weight: 700;
+}   
+.container{
+    flex-wrap: nowrap;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.buttonVerify{
+    width: fit-content;
+}
+.customButton{
+    background: white;
+    color: blue;
+    border: none;
+
+}
+.mainContainer{
+    padding-bottom: 6rem;
+ 
+}

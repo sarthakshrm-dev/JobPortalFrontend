@@ -1,0 +1,42 @@
+.formGroup label {
+	font-size: 0.9rem;
+	font-weight: 500;
+	margin-bottom: 0;
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.formGroup input {
+	border-radius: 2px;
+}
+
+.formGroup select {
+	border-radius: 2px;
+}
+
+.formGroup textarea {
+	border-radius: 2px;
+}
+
+
+.title {
+	display: block;
+	margin-bottom: 2px;
+}
+
+.subTitle {
+	font-size: 17px;
+	color: rgba(0, 0, 0, 0.6);
+	font-weight: 500;
+}
+
+.pointerCursor {
+	cursor: pointer;
+}
+
+.checkLabel {
+	font-size: 0.9rem;
+	margin-left: 0.3rem;
+	font-weight: 600;
+	margin-bottom: 0;
+	color: rgba(0, 0, 0, 0.8);
+}
